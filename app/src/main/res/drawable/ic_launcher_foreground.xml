@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Left Bracket [ -->
+    <path
+        android:pathData="M 34,28 L 24,28 L 24,80 L 34,80"
+        android:strokeColor="#00E5C3"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Right Bracket ] -->
+    <path
+        android:pathData="M 74,28 L 84,28 L 84,80 L 74,80"
+        android:strokeColor="#00E5C3"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Command Prompt Arrow > -->
+    <path
+        android:pathData="M 38,44 L 50,54 L 38,64"
+        android:strokeColor="#A78BFA"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Flashing Prompt Cursor _ -->
+    <path
+        android:pathData="M 54,64 L 68,64"
+        android:strokeColor="#A78BFA"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+        
+</vector>

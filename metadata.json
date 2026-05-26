@@ -1,0 +1,6 @@
+{
+  "name": "DevPocket",
+  "description": "Offline Android developer sandbox: script runner, regex evaluation, formatted console, and offline documentation vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
